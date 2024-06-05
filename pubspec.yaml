@@ -39,12 +39,15 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  integration_test:
+    sdk: flutter
   flutter_launcher_icons: ^0.13.1
 
 flutter_launcher_icons:
   android: "launcher_icon"
   image_path: "images/icons8-flower-64.png"
   min_sdk_android: 21
+
 
 
   # The "flutter_lints" package below contains a set of recommended lints to
